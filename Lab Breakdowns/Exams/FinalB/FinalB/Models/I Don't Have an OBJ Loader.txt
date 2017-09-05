@@ -1,0 +1,12 @@
+Not having one will definitely make this exam significantly more tedious, but NOT impossible!
+
+If your OBJ loader isn't working, that doesn't mean you have to give up!
+
+Free Off-The-Shelf tools exist that may provide an avenue for you to get OBJ files into your code.
+
+While this is nowhere near as nice as having your own working OBJ loader, it at least gives you a fighting chance!!!
+
+Follow this link: 
+
+http://ksolek.fm.interia.pl/Blender/
+

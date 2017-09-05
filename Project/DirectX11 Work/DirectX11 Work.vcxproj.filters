@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Lab 1">
+      <UniqueIdentifier>{006d9be9-dc90-492e-b4c5-810910a7cc6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lab 2">
+      <UniqueIdentifier>{4c6eef5a-403a-4c19-9390-d6eb5683f78b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lab 3">
+      <UniqueIdentifier>{da3a5eba-f3bc-4bf4-9f55-25922493f29d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lab 2_3">
+      <UniqueIdentifier>{b09775b2-2a90-4efa-ac55-859de7c33e36}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Lab1\Lab1.cpp">
+      <Filter>Lab 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Lab2\Lab2.cpp">
+      <Filter>Lab 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Lab3\Object.cpp">
+      <Filter>Lab 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Lab2_3\Lab2_3.cpp">
+      <Filter>Lab 2_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Lab3\Lab3.cpp">
+      <Filter>Lab 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\IncludeLabs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Lab1\Lab1.h">
+      <Filter>Lab 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Lab2\Lab2.h">
+      <Filter>Lab 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Lab3\Object.h">
+      <Filter>Lab 3</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Lab2_3\Lab2_3.h">
+      <Filter>Lab 2_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Lab3\Lab3.h">
+      <Filter>Lab 3</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Source\Lab1\Trivial_PS.hlsl">
+      <Filter>Lab 1</Filter>
+    </FxCompile>
+    <FxCompile Include="Source\Lab1\Trivial_VS.hlsl">
+      <Filter>Lab 1</Filter>
+    </FxCompile>
+    <FxCompile Include="Source\Lab2\Trivial_VS_2.hlsl">
+      <Filter>Lab 2</Filter>
+    </FxCompile>
+    <FxCompile Include="Source\Lab2\Trivial_PS_2.hlsl">
+      <Filter>Lab 2</Filter>
+    </FxCompile>
+    <FxCompile Include="Source\Lab2_3\Trivial_VS_2_3.hlsl">
+      <Filter>Lab 2_3</Filter>
+    </FxCompile>
+    <FxCompile Include="Source\Lab2_3\Trivial_PS_2_3.hlsl">
+      <Filter>Lab 2_3</Filter>
+    </FxCompile>
+    <FxCompile Include="Source\Lab3\PS_Texture.hlsl">
+      <Filter>Lab 3</Filter>
+    </FxCompile>
+    <FxCompile Include="Source\Lab3\VS_Basic.hlsl">
+      <Filter>Lab 3</Filter>
+    </FxCompile>
+    <FxCompile Include="Source\Lab3\PS_Skybox.hlsl">
+      <Filter>Lab 3</Filter>
+    </FxCompile>
+    <FxCompile Include="Source\Lab3\VS_Skybox.hlsl">
+      <Filter>Lab 3</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

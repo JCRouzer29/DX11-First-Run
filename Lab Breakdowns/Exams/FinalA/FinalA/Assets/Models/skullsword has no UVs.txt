@@ -1,0 +1,3 @@
+No model in the final actually requires UV's, but the gems do have them.
+To load "skullsword.obj" you must adapt your model loader to NOT assume the presence of texture coordinates.
+If you would rather not modify your loader, you may use an modeling program such as Blender to add UVs & re-export.

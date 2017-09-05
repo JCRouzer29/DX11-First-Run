@@ -1,0 +1,26 @@
+This is the same folder we will use when grading your exam.
+
+Copy this folder to your project folder and access the included assets in the following way:
+
+Textures:
+
+LoadTextureFunction( "Assets/Textures/TextureYouWantToLoad.dds" )
+
+Models: (If Applicable)
+
+LoadModelFunction( "Assets/Models/ModelYouWantToLoad.obj" )
+
+Other: (Shaders & Model Headers)
+
+Any files that get compiled in directly such as shaders are source code and should NOT be in this folder.
+
+Be sure to carefully follow the submission guidelines during turn-in.
+Use this folder to make sure your submission builds & runs when unzipped.
+
+
+Notes:
+
+Models sourced from www.opengameart.org
+Default reflection sourced from NVidia FXComposer.
+Night Sky sourced from redsorceress skyboxes
+Tepeca Gris sourced from spiralgraphics.biz free texture packs.
