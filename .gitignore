@@ -1,0 +1,20 @@
+
+*.opensdf
+*.sdf
+*.csh
+*.csh
+*.csh
+Project/DirectX11 Work/CSH/PS_Skybox.csh
+*.cso
+Project/Debug/DirectX11 Work.pdb
+*.tlog
+*.unsuccessfulbuild
+Project/DirectX11 Work/Debug/DirectX11 Work.log
+Project/DirectX11 Work/Debug/Lab1.obj
+Project/DirectX11 Work/Debug/Object.obj
+Project/DirectX11 Work/Debug/main.obj
+Project/DirectX11 Work/Debug/Lab3.obj
+Project/DirectX11 Work/Debug/Lab2_3.obj
+*.idb
+*.pdb
+*.lastbuildstate
